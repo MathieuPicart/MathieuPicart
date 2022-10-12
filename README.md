@@ -1,5 +1,6 @@
 <h1 align="center">Salut , Moi c'est Mathieu <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
+<!-- Bassed on: [readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg) -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1100&center=true&width=450&lines=%C3%89tudiant+D%C3%A9veloppement+Web+Full-Stack" alt="Typing SVG" /></a>
 </p>
 <hr/>
