@@ -1,11 +1,14 @@
 <h1 align="center">Salut , Moi c'est Mathieu <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-<!-- Bassed on: [readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg) -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1100&center=true&width=450&lines=%C3%89tudiant+D%C3%A9veloppement+Web+Full-Stack" alt="Typing SVG" /></a>
+  <!-- Bassed on: [readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg) -->
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1100&center=true&width=450&lines=%C3%89tudiant+D%C3%A9veloppement+Web+Full-Stack" alt="Typing SVG" /></a>
 </p>
+
 <hr/>
+
 <h4 align="center">Je suis étudiant en Master 2 à l’Università di Corsica Pasquale Paoli. 
 En parallèle, je travaille en tant qu'alternant développeur web au Crédit Agricole de la Corse.</h4>
+<a href="#" target="blank"><img src="https://github.com/MathieuPicart/MathieuPicart/blob/main/ressources/IMG_1.png" align="right" height="200" /></a>
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mathieupicart&label=Profile+views&color=green&style=for-the-badge" alt="candida18" /> </p>
 
@@ -163,14 +166,16 @@ En parallèle, je travaille en tant qu'alternant développeur web au Crédit Agr
 </p>
 
 <details>
-  <summary></summary>
-##### Fun fact: On peur résoudre l'une des plus vieille questions grâce à une ligne de JavaScript
-<!-- wi*quL3fcV -->
+  <summary>🥚</summary>
+  <br/>
+  Fun fact : On peur résoudre l'une des plus vieille questions grâce à une ligne de JavaScript
+  <!-- wi*quL3fcV -->
 
-```javascript
-// Qui est venu le premier : L'œuf ou la poule?
-console.log(['🥚', '🐣', '🐥', '🐔'].sort())
+  ```javascript
+  // Qui est venu le premier : L'œuf ou la poule?
+  console.log(['🥚', '🐣', '🐥', '🐔'].sort())
 
->>> [ '🐔', '🐣', '🐥', '🥚' ]
+  >>> [ '🐔', '🐣', '🐥', '🥚' ]
+  ```
 </details>
 
