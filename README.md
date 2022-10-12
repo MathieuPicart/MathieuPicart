@@ -162,6 +162,8 @@ En parallèle, je travaille en tant qu'alternant développeur web au Crédit Agr
 	<a href="https://www.linkedin.com/in/mathieu-picart/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>	
 </p>
 
+<details>
+  <summary></summary>
 ##### Fun fact: On peur résoudre l'une des plus vieille questions grâce à une ligne de JavaScript
 <!-- wi*quL3fcV -->
 
@@ -170,3 +172,5 @@ En parallèle, je travaille en tant qu'alternant développeur web au Crédit Agr
 console.log(['🥚', '🐣', '🐥', '🐔'].sort())
 
 >>> [ '🐔', '🐣', '🐥', '🥚' ]
+</details>
+
