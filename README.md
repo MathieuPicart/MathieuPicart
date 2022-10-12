@@ -5,10 +5,9 @@
 </p>
 
 <hr/>
-
+<a href="#" target="blank"><img src="https://github.com/MathieuPicart/MathieuPicart/blob/main/ressources/IMG_1.png" align="right" height="200" /></a>
 <h4 align="center">Je suis étudiant en Master 2 à l’Università di Corsica Pasquale Paoli. 
 En parallèle, je travaille en tant qu'alternant développeur web au Crédit Agricole de la Corse.</h4>
-<a href="#" target="blank"><img src="https://github.com/MathieuPicart/MathieuPicart/blob/main/ressources/IMG_1.png" align="right" height="200" /></a>
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mathieupicart&label=Profile+views&color=green&style=for-the-badge" alt="candida18" /> </p>
 
