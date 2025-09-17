@@ -7,8 +7,7 @@
 
 <a href="#" target="blank"><img src="https://github.com/MathieuPicart/MathieuPicart/blob/main/ressources/Image.png" align="right" height="200" /></a>
 <br/>
-<p>🎓 Étudiant en M2 Développement Web FullStack a Università di Corsica Pasquale Paoli.</p>
-<p>👨‍💻 Apprenti Développeur Web chez Crédit Agricole de la Corse</p>
+<p>🎓 Développeur Web FullStack</p>
 <br/>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mathieupicart&label=Profile+views&color=green&style=for-the-badge" alt="Mathieu Picart" /> </p>
