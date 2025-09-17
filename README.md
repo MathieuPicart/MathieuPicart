@@ -2,12 +2,12 @@
 
 <p align="center">
   <!-- Bassed on: [readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg) -->
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1100&center=true&width=450&lines=%C3%89tudiant+D%C3%A9veloppement+Web+Full-Stack" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1100&center=true&width=450&lines=D%C3%A9veloppeur+Web+Full-Stack" alt="Typing SVG" /></a>
 </p>
 
 <a href="#" target="blank"><img src="https://github.com/MathieuPicart/MathieuPicart/blob/main/ressources/Image.png" align="right" height="200" /></a>
 <br/>
-<p>🎓 Développeur Web FullStack</p>
+	<p>🎓 Développeur Web FullStack</p>
 <br/>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mathieupicart&label=Profile+views&color=green&style=for-the-badge" alt="Mathieu Picart" /> </p>
